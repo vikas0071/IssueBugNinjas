@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.22"
+  },
+  "name": "issuebugtracker",
+  "version": "1.0.0",
+  "description": "identify issue and bugs",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vikasbishnoi",
+  "license": "ISC"
+}
